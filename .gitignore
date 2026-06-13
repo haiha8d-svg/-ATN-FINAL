@@ -1,0 +1,90 @@
+# =========================
+# Unity generated folders
+# =========================
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+
+# MemoryCaptures can get excessive in size
+MemoryCaptures/
+
+# =========================
+# Asset meta data (keep!)
+# =========================
+# Do NOT ignore .meta files
+!*.meta
+
+# =========================
+# Visual Studio / Rider
+# =========================
+.vs/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# Rider
+.idea/
+
+# VS Code
+.vscode/
+
+# =========================
+# OS generated
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Crash reports
+# =========================
+sysinfo.txt
+
+# =========================
+# Addressables / AssetBundles
+# =========================
+ServerData/
+
+# =========================
+# Gradle (Android)
+# =========================
+.gradle/
+build/
+
+# =========================
+# IL2CPP
+# =========================
+il2cppOutput/
+
+# =========================
+# Unity Cloud Build
+# =========================
+UnityCloudBuild/
+
+# =========================
+# Auto-generated files
+# =========================
+*.apk
+*.aab
+*.unitypackage
+
+# =========================
+# Logs
+# =========================
+*.log
+
+# =========================
+# Temporary files
+# =========================
+*.tmp
+*.temp
